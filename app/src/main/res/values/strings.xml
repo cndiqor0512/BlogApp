@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Blog App</string>
+    <string name="pass_hint">Pasword..</string>
+    <string name="password">비밀번호</string>
+    <string name="emailadress">이메일주소</string>
+</resources>

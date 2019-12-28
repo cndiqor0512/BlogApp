@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "349415304290",
+    "firebase_url": "https://blogapp-daeae.firebaseio.com",
+    "project_id": "blogapp-daeae",
+    "storage_bucket": "blogapp-daeae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349415304290:android:dfddb34f80365263fcb53b",
+        "android_client_info": {
+          "package_name": "com.cndiqor0512.blogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349415304290-p4so9bpm5s37g99hkkdkb4ml583b61a1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cndiqor0512.blogapp",
+            "certificate_hash": "341cd61e7aa551e7fb577c6aaef8d3972de3eaf6"
+          }
+        },
+        {
+          "client_id": "349415304290-lg9219ml2r1cs1jkjpmjvtbtcikb8f7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6FfPyJi9tWJwZIBkx6VDcOGQNFpzbcO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349415304290-lg9219ml2r1cs1jkjpmjvtbtcikb8f7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
